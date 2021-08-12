@@ -1,4 +1,3 @@
-Aruba - http://en.wikipedia.org/wiki/Aruba
 Afghanistan - http://en.wikipedia.org/wiki/Afghanistan
 Angola - http://en.wikipedia.org/wiki/Angola
 Anguilla - http://en.wikipedia.org/wiki/Anguilla
@@ -247,4 +246,3 @@ Samoa - http://en.wikipedia.org/wiki/Samoa
 Yemen - http://en.wikipedia.org/wiki/Yemen
 South Africa - http://en.wikipedia.org/wiki/South_Africa
 Zambia - http://en.wikipedia.org/wiki/Zambia
-Zimbabwe - http://en.wikipedia.org/wiki/Zimbabwe
